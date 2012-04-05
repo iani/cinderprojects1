@@ -2,7 +2,7 @@
                         ======================
 
 Author: Ioannis Zannos
-Date: 2012-04-05 16:59:48 EEST
+Date: 2012-04-05 17:03:04 EEST
 
 
 Example project in Cinder to test sharing method via git repositories on github. 
@@ -15,10 +15,7 @@ Clone the folder of this repository inside a subfolder of your Cinder folder. Ex
   ~/Dev/Cinder/projects                  All your project repositories for Cinder  
   ~/Dev/Conder/projects/gitrepoexample   The folder cloned from this repository    
 
-Full instructions: 
 
-...
-
-Projects contained here should be able to compile.  This has been tested on MacOS 10.7 with XCode 4.3 and with Cinder cloned from [https://github.com/cinder/Cinder] using this URL: [https://github.com/cinder/Cinder.git] .
+As long as the present folder is a subfolder of a subfolder of Cinder, the projects contained here should be able to compile.  This has been tested on MacOS 10.7 with XCode 4.3 and with Cinder cloned from [https://github.com/cinder/Cinder] using this URL: [https://github.com/cinder/Cinder.git] .
 
 
